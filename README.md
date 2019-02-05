@@ -1,11 +1,12 @@
+# Exemplo de uso do django PDF
+
+Site para demonstra utilização de PDF com django
+
 ## Requires
 
-Python 3.6
-
-WeasyPrint
-
-xhtml2pdf
-
+* Python 3.6
+* WeasyPrint
+* xhtml2pdf
 
 ## Running
 
@@ -26,6 +27,7 @@ xhtml2pdf
 ## Guides
 
 https://xhtml2pdf.readthedocs.io/en/latest/format_html.html
+
 https://weasyprint.readthedocs.io/en/latest/install.html
 
 
